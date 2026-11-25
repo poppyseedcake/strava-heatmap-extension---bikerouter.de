@@ -1,5 +1,8 @@
 # Strava Heatmap extension
 
+***Fork of https://github.com/julcnx/strava-heatmap-extension
+Added bikerouter.de support***
+
 This browser extension seamlessly integrates the [Strava Global Heatmap](https://www.strava.com/maps/global-heatmap) into popular mapping editors, including the OpenStreetMap [iD editor](https://www.openstreetmap.org/edit?editor=id) and [GPX Studio](https://gpx.studio/app), enhancing your mapping and route analysis capabilities. In iD, [Strava Slide](#strava-slide-id) snaps a roughly drawn line onto the heatmap trail.
 
 <img src="./images/screenshot1.png" width="48%"/>&nbsp;<img src="./images/screenshot2.png" width="48%"/>
